@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoginForm/LogoPic/logo.png</file>
+        <file>LoginForm/LoginListModel.qml</file>
+        <file>LoginForm/LoginForm.qml</file>
+        <file>LoginForm/RegistrationForm.qml</file>
+        <file>LoginForm/PswRecoverForm.qml</file>
+        <file>LoginForm/WelcomeForm.qml</file>
+        <file>LoginForm/MainWindow.qml</file>
+        <file>LoginForm/LogoPic/logout.png</file>
+        <file>CanvasExample/Star.qml</file>
+        <file>CanvasExample/CanvasListView.qml</file>
+        <file>CanvasExample/Ring.qml</file>
+        <file>CanvasExample/Hourglass.qml</file>
+        <file>CanvasExample/House.qml</file>
+        <file>CanvasExample/texture_brevna.jpg</file>
+        <file>CanvasExample/texture_cherepica.jpg</file>
+        <file>CanvasExample/window.jpg</file>
+    </qresource>
+</RCC>
